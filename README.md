@@ -1,2 +1,3 @@
-# Intern_Challenge_Accenture
-Accenture Intern Challenge Day 2023 By Juan José Restrepo Rosero
+# Intern Challenge Day Accenture 2023
+
+Code and analysis made by Juan José Restrepo Rosero
