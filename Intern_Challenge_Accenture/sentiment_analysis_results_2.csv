@@ -1,0 +1,80 @@
+bank_name,theme,positive_reviews,negative_reviews,neutral_reviews
+Bank_1,24*7 Support,1387,107,125
+Bank_1,Customer Onboarding,468,203,76
+Bank_1,Offers,128,11,11
+Bank_1,Customer Service,3718,763,419
+Bank_1,Connectivity Issues,81,39,20
+Bank_1,Update Issues,454,251,165
+Bank_1,Payments and Transactions,1176,234,115
+Bank_1,App Stability,1330,694,368
+Bank_1,Account Management by Customer,621,168,33
+Bank_1,Account Management by Bank,470,112,19
+Bank_1,Account Safety,128,85,70
+Bank_1,Fraud and Thefts,109,47,18
+Bank_1,User Interface,5156,122,66
+Bank_1,Grievance Redressal,60,12,13
+Bank_1,International Usage,1064,39,36
+Bank_1,Others,8210,691,1722
+Bank_2,Account Management by Customer,621,168,33
+Bank_2,Customer Service,3718,763,419
+Bank_2,Fraud and Thefts,109,47,18
+Bank_2,App Stability,1330,694,368
+Bank_2,Account Management by Bank,470,112,19
+Bank_2,Update Issues,454,251,165
+Bank_2,Customer Onboarding,468,203,76
+Bank_2,Account Safety,128,85,70
+Bank_2,User Interface,5156,122,66
+Bank_2,Grievance Redressal,60,12,13
+Bank_2,Payments and Transactions,1176,234,115
+Bank_2,International Usage,1064,39,36
+Bank_2,Others,8210,691,1722
+Bank_2,Offers,128,11,11
+Bank_2,Connectivity Issues,81,39,20
+Bank_3,24*7 Support,1387,107,125
+Bank_3,Account Management by Bank,470,112,19
+Bank_3,User Interface,5156,122,66
+Bank_3,Update Issues,454,251,165
+Bank_3,App Stability,1330,694,368
+Bank_3,Payments and Transactions,1176,234,115
+Bank_3,Customer Service,3718,763,419
+Bank_3,International Usage,1064,39,36
+Bank_3,Connectivity Issues,81,39,20
+Bank_3,Customer Onboarding,468,203,76
+Bank_3,Account Management by Customer,621,168,33
+Bank_3,Account Safety,128,85,70
+Bank_3,Offers,128,11,11
+Bank_3,Fraud and Thefts,109,47,18
+Bank_3,Grievance Redressal,60,12,13
+Bank_3,Others,8210,691,1722
+Bank_4,Account Management by Customer,621,168,33
+Bank_4,Customer Service,3718,763,419
+Bank_4,User Interface,5156,122,66
+Bank_4,App Stability,1330,694,368
+Bank_4,Update Issues,454,251,165
+Bank_4,24*7 Support,1387,107,125
+Bank_4,Customer Onboarding,468,203,76
+Bank_4,Account Management by Bank,470,112,19
+Bank_4,Payments and Transactions,1176,234,115
+Bank_4,Grievance Redressal,60,12,13
+Bank_4,Connectivity Issues,81,39,20
+Bank_4,Account Safety,128,85,70
+Bank_4,Fraud and Thefts,109,47,18
+Bank_4,Others,8210,691,1722
+Bank_4,Offers,128,11,11
+Bank_4,International Usage,1064,39,36
+Main_Bank,App Stability,1330,694,368
+Main_Bank,24*7 Support,1387,107,125
+Main_Bank,Account Management by Bank,470,112,19
+Main_Bank,User Interface,5156,122,66
+Main_Bank,Account Management by Customer,621,168,33
+Main_Bank,International Usage,1064,39,36
+Main_Bank,Customer Service,3718,763,419
+Main_Bank,Payments and Transactions,1176,234,115
+Main_Bank,Fraud and Thefts,109,47,18
+Main_Bank,Update Issues,454,251,165
+Main_Bank,Customer Onboarding,468,203,76
+Main_Bank,Grievance Redressal,60,12,13
+Main_Bank,Connectivity Issues,81,39,20
+Main_Bank,Offers,128,11,11
+Main_Bank,Account Safety,128,85,70
+Main_Bank,Others,8210,691,1722
